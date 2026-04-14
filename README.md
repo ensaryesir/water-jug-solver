@@ -4,6 +4,8 @@
 
 This project is a python-based solver for the classic **Water Jug Problem**. It provides a generalized, dynamic solution that works for any number of jugs (2, 3, or N-jugs). It implements two distinct approaches to solving the problem: a standard Breadth-First Search (BFS) and a complete State Space Exploration mapped into a visual graph.
 
+![State Space Triangle Solution Example](./state_space_triangle.png)
+
 ## Features
 
 - **Dynamic Jug Support:** Define any number of capacities, start states, and target states dynamically via user input.
